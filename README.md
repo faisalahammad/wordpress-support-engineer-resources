@@ -42,3 +42,15 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [American English Pronunciation](https://www.skillshare.com/en/classes/American-English-Pronunciation/819785776)
 - [English Grammar Pro | Beginner to Advanced (A1-C1)](https://www.skillshare.com/en/classes/English-Grammar-Pro-Beginner-to-Advanced-A1-C1/1240993655)
 - [Master Native English | Speaking Skills, Grammar, and More](https://www.skillshare.com/en/classes/Master-Native-English-Speaking-Skills-Grammar-and-More/838988170)
+
+### YouTube Channels
+
+- [mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma) (EN)
+- [linguamarina](https://www.youtube.com/c/linguamarina) (EN)
+- [English Fluency Journey](https://www.youtube.com/c/EnglishFluencyJourney) (EN)
+- [English Speaking Course](https://www.youtube.com/c/EnglishSpeakingCourses) (EN)
+- [Learn English with EnglishClass101.com](https://www.youtube.com/c/EnglishClass101) (EN)
+- [TECCareerTalks with Khaza](https://www.youtube.com/c/CareerTalks) (BN)
+- [Munzereen Shahid](https://www.youtube.com/c/MunzereenShahid)
+- [Maisuns world](https://www.youtube.com/@maisunsworld) (BN) :100:
+- [NiRJHAR EDUCATION](https://www.youtube.com/c/NiRJHAREDUCATION) (BN)
