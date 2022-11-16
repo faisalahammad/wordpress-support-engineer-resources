@@ -25,7 +25,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - Server, File System
 - Crack Interview
   - Courses
-  - Articles
+  - Questions
 - Job Hunting
 
 ## Blog
@@ -41,9 +41,9 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 ### Course
 
-- [American English Pronunciation](https://www.skillshare.com/en/classes/American-English-Pronunciation/819785776)
-- [English Grammar Pro | Beginner to Advanced (A1-C1)](https://www.skillshare.com/en/classes/English-Grammar-Pro-Beginner-to-Advanced-A1-C1/1240993655)
-- [Master Native English | Speaking Skills, Grammar, and More](https://www.skillshare.com/en/classes/Master-Native-English-Speaking-Skills-Grammar-and-More/838988170)
+- [American English Pronunciation](https://www.skillshare.com/en/classes/American-English-Pronunciation/819785776) :red_circle:
+- [English Grammar Pro | Beginner to Advanced (A1-C1)](https://www.skillshare.com/en/classes/English-Grammar-Pro-Beginner-to-Advanced-A1-C1/1240993655) :red_circle:
+- [Master Native English | Speaking Skills, Grammar, and More](https://www.skillshare.com/en/classes/Master-Native-English-Speaking-Skills-Grammar-and-More/838988170) :red_circle:
 
 ### YouTube Channels
 
@@ -59,10 +59,10 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 ### Mobile Apps
 
-- [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=US) :100: :heart:
-- [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US)
-- [Cake - Learn English & Korean](https://play.google.com/store/apps/details?id=me.mycake&hl=en&gl=US)
-- [Falou - Fast language learning](https://play.google.com/store/apps/details?id=com.moymer.falou&hl=en&gl=US)
+- [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=US) :white_check_mark: :100: :heart:
+- [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US) :white_check_mark:
+- [Cake - Learn English & Korean](https://play.google.com/store/apps/details?id=me.mycake&hl=en&gl=US) :white_check_mark:
+- [Falou - Fast language learning](https://play.google.com/store/apps/details?id=com.moymer.falou&hl=en&gl=US) :white_check_mark:
 
 ## Crack Interview
 
@@ -70,3 +70,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 - [ENGLISH JOB INTERVIEW : The complete English job interview preparation](https://www.skillshare.com/en/classes/ENGLISH-JOB-INTERVIEW-The-complete-English-job-interview-preparation/671535165) :red_circle:
 - [Job Interview English: Get Your Dream Job (50+ Questions)](https://www.skillshare.com/en/classes/Job-Interview-English-Get-Your-Dream-Job-50-Questions/2078772167) :red_circle:
+
+### Questions
+
+- [100+ Wordpress Interview Questions](https://www.onlineinterviewquestions.com/wordpress-interview-questions/)
+- [Top 60+ WordPress Interview Questions and Answers](https://www.bestinterviewquestion.com/wordpress-interview-questions)
