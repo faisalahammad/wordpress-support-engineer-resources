@@ -1,38 +1,33 @@
-# WordPress Support Engineer Resources
+<h1>WordPress Support Engineer Resources</h1>
 
 I'm going to share some FREE and Paid resources here. Before purchasing any premium course, first check the reviews.
 
 **Disclaimer:** I'm not affiliated with any of the resources. So purchase at your own risk. :warning:
 
-### Explaination of pricing
+<h2>Explaination of pricing</h2>
 
 1. :white_check_mark: - Free
 2. :100: - Recommended
 3. :red_circle: - Paid
 4. :heart: - Favorite
 
-### Parts
+<h2>Table Of Content</h2>
 
-- Blog
-- CS Courses
-- Improve English
-  - Courses
-  - YouTube Channels
-  - Mobile Apps
-- Technical skills
-  - Tools
-  - WordPress Plugins
-  - Server, File System
-- Crack Interview
-  - Courses
-  - Questions
-- Job Hunting
+- [Blog](#blog)
+- [CS Course](#cs-course)
+- [Improve English](#improve-english)
+  - [Course](#course)
+  - [YouTube Channels](#youtube-channels)
+  - [Mobile Apps](#mobile-apps)
+- [Crack Interview](#crack-interview)
+  - [Course](#course-1)
+  - [Questions](#questions)
 
 ## Blog
 
 - [Happiness Everywhere](https://happinessengineer.blog/) by Automatic :white_check_mark: :100:
 
-## Course
+## CS Course
 
 - [Customer Support Skills](https://www.udemy.com/course/customer-support-skills/) by Freshworks Academy :white_check_mark: :100: :heart:
 - [Customer Service, Customer Support, And Customer Experience](https://www.udemy.com/course/how-to-find-your-voice-the-resonates-with-your-customers/) by Alex Genadinik :red_circle:
