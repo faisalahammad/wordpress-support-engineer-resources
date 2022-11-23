@@ -22,6 +22,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Crack Interview](#crack-interview)
   - [Course](#course-1)
   - [Questions](#questions)
+- [Tools](#tools)
+  - [Terminal](#terminal)
 
 ## Blog
 
@@ -70,3 +72,14 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 - [100+ Wordpress Interview Questions](https://www.onlineinterviewquestions.com/wordpress-interview-questions/)
 - [Top 60+ WordPress Interview Questions and Answers](https://www.bestinterviewquestion.com/wordpress-interview-questions)
+
+## Tools
+
+### Terminal
+
+- [SSH Crash Course](https://www.youtube.com/watch?v=hQWRp-FdTpc) by Traversy Media :100: :heart:
+- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [Wordpress WP CLI Tutorials for Beginners](https://www.youtube.com/watch?v=nBpeDRHr3Xs&list=PLT9miexWCpPV7EfmKOp2JWyR7GqRHSHtc) by Online Web Tutors :100: :heart:
+- [Git & GitHub complete course Bangla (Beginner to Advanced)](https://www.youtube.com/watch?v=cPgIpUraWQo&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-) by Anisur Islam :100: :heart:
+- [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE) by Coder Coder :100:
+- [Linux File Permissions](https://www.youtube.com/watch?v=D-VqgvBMV7g) by Guru99
