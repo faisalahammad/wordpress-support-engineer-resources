@@ -24,6 +24,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Questions](#questions)
 - [Tools](#tools)
   - [Terminal](#terminal)
+  - [WP Backup & Restore](#wp-backup--restore)
 
 ## Blog
 
@@ -83,3 +84,11 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Git & GitHub complete course Bangla (Beginner to Advanced)](https://www.youtube.com/watch?v=cPgIpUraWQo&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-) by Anisur Islam :100: :heart:
 - [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE) by Coder Coder :100:
 - [Linux File Permissions](https://www.youtube.com/watch?v=D-VqgvBMV7g) by Guru99
+
+### WP Backup & Restore
+
+- [WP Migrate DB Pro Basics](https://www.youtube.com/watch?v=pHlrclybXuQ) by Chris Miller :red_circle:
+- [WordPress Migration | Backup | Restore | Staging Site For Free](https://www.youtube.com/watch?v=U_jONJSij38) by WPTuts :white_check_mark:
+- [How To Migrate Your WordPress Website For Free](https://www.youtube.com/watch?v=tIurrwfsCOg) :white_check_mark: :100: :heart:
+- [How to Migrate an Entire WordPress Site to New Host](https://www.youtube.com/watch?v=EuET2-Xqm4c) by Website Learners
+- [UpdraftPlus Wordpress Backup Plugin Tutorial](https://www.youtube.com/watch?v=T7qDFsSmUPs)
