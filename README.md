@@ -2,8 +2,6 @@
 
 I'm going to share some FREE and Paid resources here. Before purchasing any premium course, first check the reviews.
 
-**Disclaimer:** I'm not affiliated with any of the resources. So purchase at your own risk. :warning:
-
 <h2>Explaination of pricing</h2>
 
 1. :white_check_mark: - Free
@@ -37,6 +35,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Customer Service, Customer Support, And Customer Experience](https://www.udemy.com/course/how-to-find-your-voice-the-resonates-with-your-customers/) by Alex Genadinik :red_circle:
 
 ## Improve English
+
+:star: :star: :star: Skillshare is only $14 for 12 months plus one month free. To get your free month, use my referral link here: [https://skl.sh/3SYTcly](https://skl.sh/3SYTcly) and apply the coupon code "**annual30aff**" for an additional 30% off. Unlock a world of learning opportunities with this amazing deal! :star: :star: :star:
 
 ### Course
 
