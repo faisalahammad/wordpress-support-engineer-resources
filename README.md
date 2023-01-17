@@ -24,7 +24,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Questions](#questions)
 - [Tools](#tools)
   - [Terminal](#terminal)
-  - [WP Backup & Restore](#wp-backup--restore)
+  - [WP Backup \& Restore](#wp-backup--restore)
+- [WordPress Jobs](#wordpress-jobs)
 
 ## Blog
 
@@ -92,3 +93,9 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [How To Migrate Your WordPress Website For Free](https://www.youtube.com/watch?v=tIurrwfsCOg) :white_check_mark: :100: :heart:
 - [How to Migrate an Entire WordPress Site to New Host](https://www.youtube.com/watch?v=EuET2-Xqm4c) by Website Learners
 - [UpdraftPlus Wordpress Backup Plugin Tutorial](https://www.youtube.com/watch?v=T7qDFsSmUPs)
+
+## WordPress Jobs
+
+- [List of popular companies career page](https://wpcareerpages.com/)
+- [WordPress Jobs by Post Status](https://poststatus.com/jobs/)
+- [We Work Remotly](https://weworkremotely.com/)
