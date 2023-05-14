@@ -21,6 +21,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Course](#course-1)
   - [Questions](#questions)
 - [Tools](#tools)
+  - [Text Expander](#text-expander)
   - [Terminal](#terminal)
   - [WP Backup \& Restore](#wp-backup--restore)
 - [WordPress Jobs](#wordpress-jobs)
@@ -76,6 +77,13 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Top 60+ WordPress Interview Questions and Answers](https://www.bestinterviewquestion.com/wordpress-interview-questions)
 
 ## Tools
+
+### Text Expander
+
+- [Espanso](https://espanso.org/) :white_check_mark:
+- [Oslash](https://www.oslash.com/) :white_check_mark:
+- [aText](https://www.trankynam.com/atext/) - $4.99/y for 3 devices :red_circle: :100: :heart:
+- [Text Blaze](https://blaze.today/) :white_check_mark:
 
 ### Terminal
 
