@@ -22,6 +22,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Questions](#questions)
 - [Tools](#tools)
   - [Text Expander](#text-expander)
+  - [Browser Extensions](#browser-extensions)
   - [Terminal](#terminal)
   - [WP Backup \& Restore](#wp-backup--restore)
 - [WordPress Jobs](#wordpress-jobs)
@@ -84,6 +85,14 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Oslash](https://www.oslash.com/) :white_check_mark:
 - [aText](https://www.trankynam.com/atext/) - $4.99/y for 3 devices :red_circle: :100: :heart:
 - [Text Blaze](https://blaze.today/) :white_check_mark:
+
+### Browser Extensions
+
+- [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) :point_right: [Tutorial](https://www.youtube.com/watch?v=TEmHLvK82qA)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) :point_right: [Tutorial](https://youtu.be/hnnc0is23QE)
+- [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) :point_right: [Tutorial](https://www.youtube.com/watch?v=8r4rSd6EpIY)
+- [TasteWP: Free WordPress Instances](https://chrome.google.com/webstore/detail/tastewp-free-wordpress-in/gndcbndejfodldbldgjlbceailbadmni) :point_right: [Tutorial](https://youtu.be/LoxT6m0xj6s)
+- [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb) :point_right: [Tutorial](https://www.youtube.com/watch?v=hMa5L6OfNn0)
 
 ### Terminal
 
