@@ -2,7 +2,7 @@
 
 I'm going to share some FREE and Paid resources here. Before purchasing any premium course, first check the reviews.
 
-<h2>Explaination of pricing</h2>
+<h2>Explanation of pricing</h2>
 
 1. :white_check_mark: - Free
 2. :100: - Recommended
