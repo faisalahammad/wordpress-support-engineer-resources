@@ -19,6 +19,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Course](#course)
   - [YouTube Channels](#youtube-channels)
   - [Mobile Apps](#mobile-apps)
+  - [Books](#books)
 - [Crack Interview](#crack-interview)
   - [Course](#course-1)
   - [Questions](#questions)
@@ -61,6 +62,10 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US) :white_check_mark:
 - [Cake - Learn English & Korean](https://play.google.com/store/apps/details?id=me.mycake&hl=en&gl=US) :white_check_mark:
 - [Falou - Fast language learning](https://play.google.com/store/apps/details?id=com.moymer.falou&hl=en&gl=US) :white_check_mark:
+
+### Books
+
+- [Corporate Communication](https://rkmri.co/35NeA0ATpAEE) by Rokhsana Akhter Rupee :red_circle: :100:
 
 ## Crack Interview
 
