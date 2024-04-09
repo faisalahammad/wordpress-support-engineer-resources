@@ -13,6 +13,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 - [Blog](#blog)
 - [CS Course](#cs-course)
+- [Short Sessions](#short-sessions)
 - [Improve English](#improve-english)
   - [Course](#course)
   - [YouTube Channels](#youtube-channels)
@@ -23,6 +24,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Tools](#tools)
   - [Text Expander](#text-expander)
   - [Browser Extensions](#browser-extensions)
+- [Useful Videos](#useful-videos)
   - [Terminal](#terminal)
   - [WP Backup \& Restore](#wp-backup--restore)
 - [WordPress Jobs](#wordpress-jobs)
@@ -36,6 +38,10 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Customer Support Skills](https://www.udemy.com/course/customer-support-skills/) by Freshworks Academy :white_check_mark: :100: :heart:
 - [Customer Service, Customer Support, And Customer Experience](https://www.udemy.com/course/how-to-find-your-voice-the-resonates-with-your-customers/) by Alex Genadinik :red_circle:
 
+## Short Sessions
+
+- [Support Starts Here - Lauren Jeffcoat](https://wordpress.tv/2017/08/31/support-starts-here/)
+
 ## Improve English
 
 :star: :star: :star: Skillshare is only $14 for 12 months plus one month free. To get your free month, use my referral link here: [https://skl.sh/3SYTcly](https://skl.sh/3SYTcly) and apply the coupon code "**annual30aff**" for an additional 30% off. Unlock a world of learning opportunities with this amazing deal! :star: :star: :star:
@@ -48,22 +54,20 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 ### YouTube Channels
 
+- [TECCareerTalks with Khaza](https://www.youtube.com/c/CareerTalks) (BN)
+- [Munzereen Shahid](https://www.youtube.com/c/MunzereenShahid) (BN)
+- [Maisuns world](https://www.youtube.com/@maisunsworld) (BN) :100:
 - [mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma) (EN)
 - [linguamarina](https://www.youtube.com/c/linguamarina) (EN)
 - [English Fluency Journey](https://www.youtube.com/c/EnglishFluencyJourney) (EN)
 - [English Speaking Course](https://www.youtube.com/c/EnglishSpeakingCourses) (EN)
 - [Learn English with EnglishClass101.com](https://www.youtube.com/c/EnglishClass101) (EN)
-- [TECCareerTalks with Khaza](https://www.youtube.com/c/CareerTalks) (BN)
-- [Munzereen Shahid](https://www.youtube.com/c/MunzereenShahid) (BN)
-- [Maisuns world](https://www.youtube.com/@maisunsworld) (BN) :100:
-- [NiRJHAR EDUCATION](https://www.youtube.com/c/NiRJHAREDUCATION) (BN)
 
 ### Mobile Apps
 
 - [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=US) :white_check_mark: :100: :heart:
 - [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US) :white_check_mark:
-- [Cake - Learn English & Korean](https://play.google.com/store/apps/details?id=me.mycake&hl=en&gl=US) :white_check_mark:
-- [Falou - Fast language learning](https://play.google.com/store/apps/details?id=com.moymer.falou&hl=en&gl=US) :white_check_mark:
+- [দোভাষী: Dovashi Spoken English](https://play.google.com/store/apps/details?id=ridmik.dovashiapp&hl=en&gl=US) :white_check_mark: :100:
 
 ## Crack Interview
 
@@ -94,6 +98,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [TasteWP: Free WordPress Instances](https://chrome.google.com/webstore/detail/tastewp-free-wordpress-in/gndcbndejfodldbldgjlbceailbadmni) :point_right: [Tutorial](https://youtu.be/LoxT6m0xj6s)
 - [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb) :point_right: [Tutorial](https://www.youtube.com/watch?v=hMa5L6OfNn0)
 
+## Useful Videos
+
 ### Terminal
 
 - [SSH Crash Course](https://www.youtube.com/watch?v=hQWRp-FdTpc) by Traversy Media :100: :heart:
@@ -113,6 +119,6 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 ## WordPress Jobs
 
-- [List of popular companies career page](https://wpcareerpages.com/)
+- [WP Remote Work](https://wpremotework.com/) :100:
+- [WP Career Page](https://wpcareerpages.com/)
 - [WordPress Jobs by Post Status](https://poststatus.com/jobs/)
-- [We Work Remotly](https://weworkremotely.com/)
