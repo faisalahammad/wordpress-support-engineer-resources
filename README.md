@@ -31,7 +31,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 ## Blog
 
-- [Happiness Everywhere](https://happinessengineer.blog/) by Automatic :white_check_mark: :100:
+- [Happiness Everywhere](https://happinessengineer.blog/) by Automattic :white_check_mark: :100:
 
 ## CS Course
 
