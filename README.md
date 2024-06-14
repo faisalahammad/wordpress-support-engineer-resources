@@ -18,6 +18,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
   - [Course](#course)
   - [YouTube Channels](#youtube-channels)
   - [Mobile Apps](#mobile-apps)
+  - [Books](#books)
 - [Crack Interview](#crack-interview)
   - [Course](#course-1)
   - [Questions](#questions)
@@ -68,6 +69,10 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=US) :white_check_mark: :100: :heart:
 - [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US) :white_check_mark:
 - [দোভাষী: Dovashi Spoken English](https://play.google.com/store/apps/details?id=ridmik.dovashiapp&hl=en&gl=US) :white_check_mark: :100:
+
+### Books
+
+- [Corporate Communication](https://rkmri.co/35NeA0ATpAEE) by Rokhsana Akhter Rupee :red_circle: :100:
 
 ## Crack Interview
 
