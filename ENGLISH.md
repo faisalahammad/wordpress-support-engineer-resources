@@ -27,12 +27,11 @@
 - Learn **sentence structure** (Subject + Verb + Object).
 - Focus on **common tenses**: present, past, future.
 - **Resources:**
-  - [A2 English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/) by FreeCodeCamp 🆓 👌 ❤️
+  - [A2 English for Developers Certification](https://www.freecodecamp.org/learn/a2-english-for-developers/) by FreeCodeCamp 🆓 👌 ❤️
+  - [B1 English for Developers Certification](https://www.freecodecamp.org/learn/b1-english-for-developers/) by FreeCodeCamp 🆓 👌 ❤️
   - [English Grammar Fundamentals](https://10minuteschool.com/en/product/english-grammar-fundamentals/) 🆓
   - [Academic English Grammar](https://10minuteschool.com/en/product/complete-english-grammar-course/) 🆓
-  - [Know Your Verbs!](https://www.youtube.com/watch?v=SNWS-LUj0_A&list=PL5bLw9Uguvv1ZK1UDgkcO9IrjoKyP5zT1&pp=iAQB) 🆓
-  - [English Grammar Made Easy with Alisha](https://www.youtube.com/watch?v=JkURo4oTKNk&list=PL5bLw9Uguvv3XwnldAykX_WOM7T0Mcbp9&pp=iAQB) 🆓
-  - [Master English Grammar](https://www.youtube.com/watch?v=yFak2AJEr30&list=PL5bLw9Uguvv1PNOFB6NaiddASdg7ASsmR&pp=iAQB) 🆓
+  - [English in Action - Learn English as I Act Things Out](https://www.youtube.com/watch?v=avvrLjbJnPk&list=PLQut38RVINEQ9iObx0Mu0gARJVTYXPimT) 🆓
 
 ## 4. Learn Common Phrases and Idioms
 
@@ -63,13 +62,13 @@
   - [English Fluency Development](https://interactivecares.com/courseDetails/152) 🆓
   - [English Skills for Academic and Corporate Success](https://interactivecares.com/courseDetails/80) 🆓
   - [Speaking Practice - Speak With Me!](https://www.youtube.com/watch?v=iizWVpqGHcY&list=PLD_5T89Ssbn0MAiuPFuiibDOzKYMfzgnQ&pp=iAQB) 🆓
+  - [English Speaking Practice](https://www.youtube.com/playlist?list=PL7D-yPomwvWYgr3NbN907zMYfjCCpEzZP) 🆓
 
 ## 7. Enhance Reading Skills
 
 - Gradually read news or short stories.
   - [Al Jazeera](https://www.aljazeera.com/)
   - [Dhaka Tribune](https://www.dhakatribune.com/)
-  - [BDNews24](https://www.bdnews24.com/)
   - [The Bangladesh Today](https://thebangladeshtoday.com/)
 - **Resources:**
   - [American English Reading Practice for Absolute Beginners](https://www.youtube.com/watch?v=IfDJ5mgMeQ8&list=PL5bLw9Uguvv1pusxFOXlRr6hKbnyEDPpO&pp=iAQB) 🆓
@@ -97,20 +96,6 @@
 - [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en_GB)
 - [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_GB)
 - [দোভাষী: Dovashi Spoken English](https://play.google.com/store/apps/details?id=ridmik.dovashiapp&hl=en&gl=US)
-
-#### Websites
-
-- [EnglishClass101](https://www.englishclass101.com)
-- [10 Minute School](https://10minuteschool.com/en/categories/language-learning/?tab=free)
-
-#### YouTube Channels
-
-- [Munzereen Shahid](https://www.youtube.com/@MunzereenShahid)
-- [Maisuns World](https://www.youtube.com/@maisunsworld)
-- [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101)
-- [English with Lucy](https://www.youtube.com/@EnglishwithLucy/featured)
-- [linguamarina](https://www.youtube.com/@linguamarina)
-- [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma)
 
 ---
 
