@@ -17,12 +17,10 @@
 - Focus on **high-frequency words** used in everyday conversations.
 - **Resources:**
   - [Learn Vocabulary](https://www.youtube.com/watch?v=mlWbOI7AxcA&list=PLInvtdKpyzgPkvOFxrUBYogvUKLFf5IzU&pp=iAQB) by Maisuns world 🆓 👌
-  - [English Vocabulary](https://www.youtube.com/watch?v=4m9tDeLEbI4&list=PLMR3lYBIrUziW6qYc-gccRiGX74AQtzaf) 🆓
-  - [Learn Basic English Vocabulary](https://www.youtube.com/watch?v=SLo1IAQ_U2k&list=PL5bLw9Uguvv3kSpd1tM79vb0DGAG67dab&pp=iAQB) 🆓
-  - [Learn Basic English Vocabulary - Season 2](https://www.youtube.com/watch?v=7P-R0Z5zXig&list=PL5bLw9Uguvv1RUj4awa-xeNSn8tnhdwRP&pp=iAQB) 🆓
-  - [Remember English Vocabulary - Word Association](https://www.youtube.com/watch?v=HpbKigw8yHQ&list=PL5bLw9Uguvv0hbDdFVrxv5UeIXUm6BoJh&pp=iAQB) 🆓
-  - [English Words for Every Day](https://www.youtube.com/watch?v=HK7W1qHuTwY&list=PL5bLw9Uguvv2sGuwT2n5cP0ummdvtY0Jd&pp=iAQB) 🆓
-  - [American Holiday Words](https://www.youtube.com/watch?v=-YMZJ2eM-aA&list=PL5bLw9Uguvv0Tyf6ESCAgqd2gEpyew9D2&pp=iAQB) 🆓
+  - [English Vocabulary by POC English](https://www.youtube.com/playlist?list=PL6u0nu0mz1fwRFc_MoB-nLlcYq8fUz-YS) 🆓
+  - [Learn Vocabulary by Bangla to English Speaking Course](https://www.youtube.com/playlist?list=PLnE07AIBtg_JufXopsVa0AzdixdM57ek4) 🆓
+  - [How to improve Vocabulary by Bangla to English Speaking Course](https://www.youtube.com/playlist?list=PLnE07AIBtg_K9NWMOk1MNfHW7dLG2PGSS) 🆓
+  - [Advacned (C1) Vocabulary Masterclass in 60 minutes](https://www.youtube.com/watch?v=C2w_zVN8XLk&pp=ygUSZW5nbGlzaCB2b2NhYnVsYXJ5) 🆓
 
 ## 3. Move on to Basic Grammar
 
